@@ -1,0 +1,8 @@
+README
+_tkinter.c
+setup.py
+tkappinit.c
+Tkinter.egg-info/PKG-INFO
+Tkinter.egg-info/SOURCES.txt
+Tkinter.egg-info/dependency_links.txt
+Tkinter.egg-info/top_level.txt
